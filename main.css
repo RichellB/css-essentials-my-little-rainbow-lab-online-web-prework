@@ -5,7 +5,7 @@ div {
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
   border-radius: 50%; /* this makes the normally square div round */
-  border-left-color: white; /* these remove the color from the left side */
+  border-left-color: red; /* these remove the color from the left side */
   border-right-color: blue; /* the right side */
   border-bottom-color: black; /* and the bottom of the circle */
 }
